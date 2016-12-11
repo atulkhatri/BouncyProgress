@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  BouncyProgress
+
+  Created by Atul Khatri on 11/12/16.
+  Copyright © 2016 AK. All rights reserved.
+*/
+
+"question1_text" = "Did you think about what you wanted to do and how you do it?";
+"question1_min_text" = "Winging it";
+"question1_max_text" = "Bringing it";
+"question2_text" = "Did you concentrate or was your mind somewhere else?";
+"question2_min_text" = "Distracted";
+"question2_max_text" = "Dialed in";
+"question3_text" = "Did you practice the way you want to play?";
+"question3_min_text" = "Just got through it";
+"question3_max_text" = "Totally into it";
+"question4_text" = "Did the way you ate today make you feel...?";
+"question4_min_text" = "Drained";
+"question4_max_text" = "Fueled";
+"question5_text" = "Did you wake up feeling...?";
+"question5_min_text" = "Tired";
+"question5_max_text" = "Totally rested";
+"home_question" = "How did it go?";
+"exit" = "  Exit";
+"done" = "Done  ";
